@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-### Education
+## Education
 **Master in Electrical Engineering**
 
 *National Taiwan University, Taipei, Taiwan* 
@@ -29,13 +29,13 @@ Last 60 points GPA: 4.11/4.3
 Relevant Courses: Robotics, Computer Vision, Control System, Machine Learning, Mechatronics
 
 ---
-### Publications
+## Publications
 - Hao-Fang Cheng, Yi-Ching Ho, and Cheng-Wei Chen. "DentiBot: System Design and 6-DoF Hybrid Position/Force Control for Robot-Assisted Endodontic Treatment." *arXiv preprint arXiv:2310.09691* (2023). (Submitted to *Transactions on Robotics*)
 - Hao-Fang Cheng, Yi-Chan Li, Yi-Ching Ho and Cheng-Wei Chen. "Force-guided alignment and file feedrate control for robot-assisted endodontic treatment." *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. IEEE, 2022.
 - Chun-Yeon Lin, Hao-Tse Chen, Hao-Fang Cheng, and Yu-Jun He. "Electrical Impedance Sensing System Design for Abnormal Object Detection." *2021 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)*. IEEE, 2021. (Best Paper Finalist)
 
 ---
-### Research Experience
+## Research Experience
 **National Taiwan University, Taiwan**
 *Research Assistant, NASA Lab, Electrical Engineering Department*
 *Apr 2024 - Present, May 2021 - Feb 2023*
@@ -57,7 +57,7 @@ Relevant Courses: Robotics, Computer Vision, Control System, Machine Learning, M
 - Utilized a DNN network to estimate the location and size of abnormal objects.
   
 ---
-### Working Experience
+## Working Experience
 **Taiwan Space Agency, Taiwan**
 *Summer Intern, Fly-Control Group*
 *Jul 2020 - Aug 2020*
@@ -67,7 +67,7 @@ Relevant Courses: Robotics, Computer Vision, Control System, Machine Learning, M
 Relevant Skill: Drone Control
 
 ---
-### Honors & Awards
+## Honors & Awards
 - **2nd Place**, TDK National Creative Design Competition (Flying Group), Oct 2019
   - Designed an autonomous drone to follow a ground trajectory, navigate obstacles, and deliver payloads.
   - Led the first university team to join this competition, building a functional drone from scratch.
@@ -75,7 +75,7 @@ Relevant Skill: Drone Control
 - **Dean’s Award**, Aug 2020
   
 ---
-### Teaching Experience
+## Teaching Experience
 **Electrical Circuit Experiment**
 *Teaching Assistant*
 *Jan 2022 - Jan 2023*
@@ -87,7 +87,7 @@ Relevant Skill: Drone Control
 - Guided new programmers in learning Python and assisted them with homework assignments.
 
 ---
-### Skills
+## Skills
 - **Programming**: Python, C++, MATLAB, ROS, Linux
 - **CAD Software**: Fusion360, Inventor, AutoCAD
 - **Languages**: Chinese (Native), English (TOEFL 103)
