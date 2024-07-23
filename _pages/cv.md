@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 ### Education
-**Master in Electrical Engineering** \\
-*National Taiwan University, Taipei, Taiwan* \\
-*Aug 2021 - Aug 2023* \\
+**Master in Electrical Engineering** //
+*National Taiwan University, Taipei, Taiwan* 
+*Aug 2021 - Aug 2023* 
 GPA: 4.08/4.3 \\
 **Bachelor in Mechanical Engineering** 
 *National Taiwan University, Taipei, Taiwan* \\
@@ -32,12 +32,12 @@ Relevant Courses: Robotics, Computer Vision, Control System, Machine Learning, M
 - Designed DentiBot, a robot arm with a force/torque sensor and self-made positioning module for autonomous dental endodontic treatment.
 - Developed a string-based patient tracking module for localization and motion tracking.
 - Implemented a hybrid 6-DoF position/force control strategy for effective and safe treatment.
-- Verified DentiBot through pre-clinical tests with dentists at Taipei Veterans General Hospital.
+- Verified DentiBot through pre-clinical tests with dentists at Taipei Veterans General Hospital. \n
 **Polytechnique Montreal, Canada**
 *Research Intern, MIST Lab, Computer Science Department*
 *Feb 2023 - Aug 2023*
 - Enhanced multi-vehicle SLAM project by applying ultra wide-band (UWB) sensors as extra distance reference.
-- Integrated UWB localization system on six drones for human-drones interaction, enabling drones to follow dancer’s motion and avoid collisions.
+- Integrated UWB localization system on six drones for human-drones interaction, enabling drones to follow dancer’s motion and avoid collisions. \n
 **National Taiwan University, Taiwan**
 *Research Assistant, MIARL Lab, Mechanical Engineering Department*
 *Sep 2020 - Jun 2021*
