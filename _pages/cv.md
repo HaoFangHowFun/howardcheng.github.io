@@ -80,6 +80,7 @@ Relevant Skill: Drone Control
 *Teaching Assistant*
 *Jan 2022 - Jan 2023*
 - Lectured undergraduate students and resolved technical issues related to electrical instruments.
+  
 **Programming for Business Computing**
 *Teaching Assistant*
 *Sep 2020 - Jan 2021*
