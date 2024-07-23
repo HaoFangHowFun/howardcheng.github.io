@@ -9,16 +9,16 @@ redirect_from:
 
 {% include base_path %}
 ### Education
-**Master in Electrical Engineering**
-*National Taiwan University, Taipei, Taiwan*
-*Aug 2021 - Aug 2023*
-GPA: 4.08/4.3
-**Bachelor in Mechanical Engineering**
-*National Taiwan University, Taipei, Taiwan*
-*Sep 2017 - Jun 2021*
+**Master in Electrical Engineering** \\
+*National Taiwan University, Taipei, Taiwan* \\
+*Aug 2021 - Aug 2023* \\
+GPA: 4.08/4.3 \\
+**Bachelor in Mechanical Engineering** 
+*National Taiwan University, Taipei, Taiwan* \\
+*Sep 2017 - Jun 2021* \\
 GPA: 3.81/4.3
-Last 60 points GPA: 4.11/4.3
-Relevant Courses: Robotics, Computer Vision, Control System, Machine Learning, Mechatronics
+Last 60 points GPA: 4.11/4.3 \\
+Relevant Courses: Robotics, Computer Vision, Control System, Machine Learning, Mechatronics \\
 ---
 ### Publications
 - Hao-Fang Cheng, Yi-Ching Ho, and Cheng-Wei Chen. "DentiBot: System Design and 6-DoF Hybrid Position/Force Control for Robot-Assisted Endodontic Treatment." *arXiv preprint arXiv:2310.09691* (2023). (Submitted to *Transactions on Robotics*)
