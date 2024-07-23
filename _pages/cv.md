@@ -9,10 +9,18 @@ redirect_from:
 
 {% include base_path %}
 ### Education
-**Master in Electrical Engineering** //
+**Master in Electrical Engineering**
+
+
 *National Taiwan University, Taipei, Taiwan* 
+
+
 *Aug 2021 - Aug 2023* 
-GPA: 4.08/4.3 \\
+
+
+GPA: 4.08/4.3 
+
+
 **Bachelor in Mechanical Engineering** 
 *National Taiwan University, Taipei, Taiwan* \\
 *Sep 2017 - Jun 2021* \\
