@@ -28,7 +28,7 @@ GPA: 3.81/4.3
 
 Last 60 points GPA: 4.11/4.3 
 
-Relevant Courses: Robotics, Computer Vision, Control System, Machine Learning, Mechatronics \\
+**Relevant Courses: Robotics, Computer Vision, Control System, Machine Learning, Mechatronics** 
 ---
 ### Publications
 - Hao-Fang Cheng, Yi-Ching Ho, and Cheng-Wei Chen. "DentiBot: System Design and 6-DoF Hybrid Position/Force Control for Robot-Assisted Endodontic Treatment." *arXiv preprint arXiv:2310.09691* (2023). (Submitted to *Transactions on Robotics*)
