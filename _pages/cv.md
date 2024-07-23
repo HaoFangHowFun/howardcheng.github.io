@@ -33,6 +33,7 @@ Relevant Courses: Robotics, Computer Vision, Control System, Machine Learning, M
 - Hao-Fang Cheng, Yi-Ching Ho, and Cheng-Wei Chen. "DentiBot: System Design and 6-DoF Hybrid Position/Force Control for Robot-Assisted Endodontic Treatment." *arXiv preprint arXiv:2310.09691* (2023). (Submitted to *Transactions on Robotics*)
 - Hao-Fang Cheng, Yi-Chan Li, Yi-Ching Ho and Cheng-Wei Chen. "Force-guided alignment and file feedrate control for robot-assisted endodontic treatment." *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. IEEE, 2022.
 - Chun-Yeon Lin, Hao-Tse Chen, Hao-Fang Cheng, and Yu-Jun He. "Electrical Impedance Sensing System Design for Abnormal Object Detection." *2021 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)*. IEEE, 2021. (Best Paper Finalist)
+
 ---
 ### Research Experience
 **National Taiwan University, Taiwan**
@@ -64,6 +65,7 @@ Relevant Courses: Robotics, Computer Vision, Control System, Machine Learning, M
 - Developed mode-switching capabilities for the drone, enabling transitions between different control modes.
 - Fine-tuned controller parameters, allowing the drone to perform 360-degree rolls.
 Relevant Skill: Drone Control
+
 ---
 ### Honors & Awards
 - **2nd Place**, TDK National Creative Design Competition (Flying Group), Oct 2019
@@ -71,6 +73,7 @@ Relevant Skill: Drone Control
   - Led the first university team to join this competition, building a functional drone from scratch.
   - Served as team leader, organizing team members and securing resources.
 - **Dean’s Award**, Aug 2020
+  
 ---
 ### Teaching Experience
 **Electrical Circuit Experiment**
@@ -81,6 +84,7 @@ Relevant Skill: Drone Control
 *Teaching Assistant*
 *Sep 2020 - Jan 2021*
 - Guided new programmers in learning Python and assisted them with homework assignments.
+
 ---
 ### Skills
 - **Programming**: Python, C++, MATLAB, ROS, Linux
