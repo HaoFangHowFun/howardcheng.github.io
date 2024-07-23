@@ -22,10 +22,15 @@ GPA: 4.08/4.3
 
 
 **Bachelor in Mechanical Engineering** 
-*National Taiwan University, Taipei, Taiwan* \\
-*Sep 2017 - Jun 2021* \\
+
+*National Taiwan University, Taipei, Taiwan* 
+
+*Sep 2017 - Jun 2021* 
+
 GPA: 3.81/4.3
-Last 60 points GPA: 4.11/4.3 \\
+
+Last 60 points GPA: 4.11/4.3 
+
 Relevant Courses: Robotics, Computer Vision, Control System, Machine Learning, Mechatronics \\
 ---
 ### Publications
