@@ -21,4 +21,6 @@ Keywords: Robot autonomy, sensor module design, hybrid control
 
 ## Human-Drone Interaction by using UWB Localization system 
 
+## EIT
+![EIT](images/EIT.png =70%x)
 
