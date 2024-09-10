@@ -20,7 +20,7 @@ Keywords: Robot autonomy, sensor module design, hybrid control
 ![Swarm Slam](images/swarm slam.png)
 
 ## Human-Drone Interaction by using UWB Localization system 
-
-## EIT
+![human_drone](images/human-drone-interaction.png)
+## Electrical Impedance Sensing System Design for Abnormal Object Detection
 ![EIT](images/EIT.png)
 
