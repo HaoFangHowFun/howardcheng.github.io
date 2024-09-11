@@ -30,5 +30,7 @@ Keywords: Robot autonomy, sensor module design, hybrid control
 
 ## Robotics Final Project: Using Manipualtor to Solve Puzzle 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/C8wDrQi4jkE/0.jpg)](https://www.youtube.com/watch?v=C8wDrQi4jkE)
-## Mechatronics Final Project:
+## Mechatronics Final Project: Velocity Control for Panuatic Automobile
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GrI2LLuCoV8/0.jpg)](https://www.youtube.com/watch?v=GrI2LLuCoV8)
+
 
