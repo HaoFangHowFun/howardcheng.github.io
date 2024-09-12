@@ -25,6 +25,7 @@ Keywords: Robot autonomy, sensor module design, hybrid control
 ![human_drone](images/human-drone-interaction.png)
 ## Electrical Impedance Sensing System Design for Abnormal Object Detection
 ![EIT](images/EIT.png)
+![EIT](images/EIT_DNN.png)
 
 # Competition or Course Project
 
