@@ -17,7 +17,7 @@ Keywords: Robot autonomy, sensor module design, hybrid control
 ![DentiBot Video](images/dentibot_720p.mp4)
 ![PTM](images/dentibot_ptm.png)
 ![File Model](images/dentibot_file_model.png)
-
+![human_drone](images/dentibot_file_model.png)
 ## Enhancing Swarm-SLAM by adding UWB constrain
 ![Swarm Slam](images/swarm slam.png)
 
