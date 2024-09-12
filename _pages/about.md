@@ -15,9 +15,8 @@ You can find my CV here: [Hao-Fang's CV](https://github.com/HaoFangHowFun/howard
 ## DentiBot: First robot designed for endodontic treatment
 Keywords: Robot autonomy, sensor module design, hybrid control 
 ![DentiBot Video](images/dentibot_720p.mp4)
-![DentiBot Video](images/dentibot_ptm.png)
-![DentiBot Video](images/dentibot_file_model.png)
-
+![PTM](images/dentibot_ptm.png)
+![File Model](images/dentibot_file_model.png)
 
 ## Enhancing Swarm-SLAM by adding UWB constrain
 ![Swarm Slam](images/swarm slam.png)
