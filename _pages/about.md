@@ -30,7 +30,6 @@ Keywords: Robot autonomy, sensor module design, hybrid control
 
 ## TDK National Creative Design Competition: Using UAV for autonomous driving, throwing, and landing
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/48ojjCHAxoY/0.jpg)](https://www.youtube.com/watch?v=48ojjCHAxoY)
-<iframe width="600" height="480"  src="[](https://www.youtube.com/watch?v=48ojjCHAxoY)" frameborder="0" allowfullscreen></iframe>
 ## Robotics Final Project: Using Manipualtor to Solve Puzzle 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/C8wDrQi4jkE/0.jpg)](https://www.youtube.com/watch?v=C8wDrQi4jkE)
 ## Mechatronics Final Project: Velocity Control for Panuatic Automobile
