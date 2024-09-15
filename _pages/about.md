@@ -17,9 +17,9 @@ Keywords: Robot autonomy, sensor module design, hybrid control
 <summary>Read More</summary>
 ![PTM](images/dentibot_ptm.png)
 ![File Model](images/dentibot_file_model.png)
+<details>
 ## Enhancing Swarm-SLAM by adding UWB constrain
 ![Swarm Slam](images/swarm slam.png)
-<details>
 ## Human-Drone Interaction by using UWB Localization system 
 ![human_drone](images/human-drone-interaction.png)
 ## Electrical Impedance Sensing System Design for Abnormal Object Detection
