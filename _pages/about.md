@@ -12,15 +12,15 @@ I am a research assistant at National Taiwan University, where my research focus
 
 ## DentiBot: First robot designed for endodontic treatment
 Keywords: Robot autonomy, sensor module design, hybrid control 
-![DentiBot Video](images/dentibot_720p.mp4)
-
+![PTM](images/dentibot_ptm.png)
+![File Model](images/dentibot_file_model.png)
 
 
 <details>
 <summary>Read More</summary>
 ![PTM](images/dentibot_ptm.png)
 ![File Model](images/dentibot_file_model.png)
-<details>
+</details>
 
 <details>
 
