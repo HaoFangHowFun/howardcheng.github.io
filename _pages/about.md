@@ -22,6 +22,8 @@ One distinct feature of the DentiBot is 6-DoF string-based patient tracking modu
 
 <img src="images/dentibot_file_model.png">
 
+<img src="images/preclinical_result.png">
+
 </details>
 
 ## Enhancing Swarm-SLAM by adding UWB constrain
