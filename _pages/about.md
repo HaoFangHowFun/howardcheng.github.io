@@ -13,11 +13,13 @@ I am a research assistant at National Taiwan University, where my research focus
 ## DentiBot: First robot designed for endodontic treatment
 Keywords: Robot autonomy, sensor module design, hybrid control 
 ![DentiBot Video](images/dentibot_720p.mp4)
+<details>
+<summary>Read More</summary>
 ![PTM](images/dentibot_ptm.png)
 ![File Model](images/dentibot_file_model.png)
 ## Enhancing Swarm-SLAM by adding UWB constrain
 ![Swarm Slam](images/swarm slam.png)
-
+<details>
 ## Human-Drone Interaction by using UWB Localization system 
 ![human_drone](images/human-drone-interaction.png)
 ## Electrical Impedance Sensing System Design for Abnormal Object Detection
