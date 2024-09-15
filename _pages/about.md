@@ -12,9 +12,7 @@ I am a research assistant at National Taiwan University, where my research focus
 
 ## DentiBot: First robot designed for endodontic treatment
 Keywords: Robot autonomy, sensor module design, hybrid control 
-![PTM](images/dentibot_ptm.png)
-![File Model](images/dentibot_file_model.png)
-
+![DentiBot](images/dentibot.png)
 
 <details>
 <summary>Read More</summary>
@@ -22,23 +20,6 @@ Keywords: Robot autonomy, sensor module design, hybrid control
 ![File Model](images/dentibot_file_model.png)
 </details>
 
-<details>
-
-<summary>Tips for collapsed sections</summary>
-
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
-</details>
-
-  
 ## Enhancing Swarm-SLAM by adding UWB constrain
 ![Swarm Slam](images/swarm slam.png)
 ## Human-Drone Interaction by using UWB Localization system 
