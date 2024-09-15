@@ -19,9 +19,8 @@ In this project, we introduce the DentiBot, the first robot specifically designe
 One distinct feature of the DentiBot is 6-DoF string-based patient tracking module. 
 
 <img src="images/dentibot_ptm.png">
-![PTM](images/dentibot_ptm.png)
 
-![File Model](images/dentibot_file_model.png)
+<img src="images/dentibot_file_model.png">
 
 </details>
 
