@@ -6,9 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research assistance in National Taiwan University. My research interest is about robot kinematics, sensor fusion and control. I am fortunate to be advised by [Prof. Cheng-Wei Chen](https://cwchenee.wixsite.com/nasa-ntuee) from EE department, National Taiwan University. I was advised by [Prof. Giovanni Beltrame](https://mistlab.ca/) from CS department, Polytechnique Montreal for a 6 months research internship.  
-
-You can find my CV here: [Hao-Fang's CV](https://github.com/HaoFangHowFun/howardcheng.github.io/blob/24aaea354ce38f4e01d8349d688d2b9e7c88f17e/assets/Hao_Fang_Cheng_CV_for_PHD_Application.pdf)
+I am a research assistant at National Taiwan University, where my research focuses on robot kinematics, sensor fusion, and control. I am fortunate to be advised by [Prof. Cheng-Wei Chen](https://cwchenee.wixsite.com/nasa-ntuee) from the Department of Electrical Engineering at National Taiwan University, working on robot-assisted endodontic treatment. Additionally, I had the opportunity to be mentored by [Prof. Giovanni Beltrame](https://mistlab.ca/) from the Department of Computer Science at Polytechnique Montreal during a six-month research internship, where I integrated UWB systems with multi-drone and multi-vehicle networks.
 
 # Research Project
 
