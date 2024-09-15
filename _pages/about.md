@@ -31,8 +31,8 @@ Keywords: Robot autonomy, sensor module design, hybrid control
 ## TDK National Creative Design Competition: Using UAV for autonomous driving, throwing, and landing
 <iframe width="560" height="315" src="https://www.youtube.com/embed/48ojjCHAxoY?si=_p-hFNK9tuSgmWfO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Robotics Final Project: Using Manipualtor to Solve Puzzle 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/C8wDrQi4jkE/0.jpg)](https://www.youtube.com/watch?v=C8wDrQi4jkE)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C8wDrQi4jkE?si=UH1HqMph3G2K6uZH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Mechatronics Final Project: Velocity Control for Panuatic Automobile
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jzHP1wdxl_o/0.jpg)](https://www.youtube.com/watch?v=jzHP1wdxl_o)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jzHP1wdxl_o?si=roOJDU1zsC2ZX86_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
