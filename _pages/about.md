@@ -13,11 +13,32 @@ I am a research assistant at National Taiwan University, where my research focus
 ## DentiBot: First robot designed for endodontic treatment
 Keywords: Robot autonomy, sensor module design, hybrid control 
 ![DentiBot Video](images/dentibot_720p.mp4)
+
+
+
 <details>
 <summary>Read More</summary>
 ![PTM](images/dentibot_ptm.png)
 ![File Model](images/dentibot_file_model.png)
 <details>
+
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
+
+  
 ## Enhancing Swarm-SLAM by adding UWB constrain
 ![Swarm Slam](images/swarm slam.png)
 ## Human-Drone Interaction by using UWB Localization system 
@@ -30,8 +51,10 @@ Keywords: Robot autonomy, sensor module design, hybrid control
 
 ## TDK National Creative Design Competition: Using UAV for autonomous driving, throwing, and landing
 <iframe width="560" height="315" src="https://www.youtube.com/embed/48ojjCHAxoY?si=_p-hFNK9tuSgmWfO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Robotics Final Project: Using Manipualtor to Solve Puzzle 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C8wDrQi4jkE?si=UH1HqMph3G2K6uZH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Mechatronics Final Project: Velocity Control for Panuatic Automobile
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jzHP1wdxl_o?si=roOJDU1zsC2ZX86_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
