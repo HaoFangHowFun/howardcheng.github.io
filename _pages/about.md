@@ -38,7 +38,9 @@ One distinct feature of the DentiBot is 6-DoF string-based patient tracking modu
 
 ## TDK National Creative Design Competition: Using UAV for autonomous driving, throwing, and landing
 <iframe width="560" height="315" src="https://www.youtube.com/embed/48ojjCHAxoY?si=_p-hFNK9tuSgmWfO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+In October 2019, I participated in the 2020 TDK National Creative Design Competition as part of a university team, where we achieved 2nd place in the Flying Group category. I led the first team from our university to compete in this event, where we designed and built an autonomous drone from scratch. The drone was capable of following a designated ground trajectory, navigating obstacles, and delivering payloads.
 
+As the team leader, I was responsible for organizing the team, delegating tasks, and ensuring resource availability. My leadership and technical efforts were instrumental in guiding the team to a successful outcome, resulting in a fully functional and competitive drone design.
 ## Robotics Final Project: Using Manipualtor to Solve Puzzle 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C8wDrQi4jkE?si=UH1HqMph3G2K6uZH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
