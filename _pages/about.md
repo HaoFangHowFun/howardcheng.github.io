@@ -32,6 +32,7 @@ One distinct feature of the DentiBot is 6-DoF string-based patient tracking modu
 ![human_drone](images/human-drone-interaction.png)
 ## Electrical Impedance Sensing System Design for Abnormal Object Detection
 ![EIT](images/EIT.png)
+This project proposed a design for an electrical impedance (EI) sensing system. For the part of physical modeling, the harmonic electric fields of the EI sensing system are formulated by the distributed parameter element (DPE) method to calculate the electrode potentials for several injection patterns of different abnormal object distributions, and the computed electrode potentials are feed into a deep neural network (DNN) to estimate the location and size of the abnormal object. For the part of system development, an electric circuit that integrates the multiplexer and Howland pump is utilized to switch the current injection electrodes and control the injection currents. The harmonic electric fields computed by the DPE method are verified by the FEA software, and the effects of utilizing the DNN for abnormal object detection are numerically validated. The proposed design, along with a prototype of the EI sensing system, which is conducted on two kinds of materials, phantom and biological objects, have been experimentally compared. 
 ![EIT](images/EIT_DNN.png)
 
 # Competition or Course Project
