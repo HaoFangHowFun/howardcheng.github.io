@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<p align = "justify"> 
 I am a research assistant at National Taiwan University, where my research focuses on robot kinematics, sensor fusion, and control. I am fortunate to be advised by [Prof. Cheng-Wei Chen](https://cwchenee.wixsite.com/nasa-ntuee) from the Department of Electrical Engineering at National Taiwan University, working on robot-assisted endodontic treatment. Additionally, I had the opportunity to be mentored by [Prof. Giovanni Beltrame](https://mistlab.ca/) from the Department of Computer Science at Polytechnique Montreal during a six-month research internship, where I integrated UWB systems with multi-drone and multi-vehicle networks.
-
+</p>
 # Research Project
 
 ## DentiBot: First robot designed for endodontic treatment
