@@ -13,8 +13,8 @@ I am a research assistant at National Taiwan University, where my research focus
 ## DentiBot: First robot designed for endodontic treatment
 Keywords: Robot autonomy, sensor module design, hybrid control 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n4k5wcZihyk?si=lVZqIsB7bOsqPL4D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-![DentiBot](images/dentibot.png)
 In this project, we introduce the DentiBot, the first robot specifically designed for dental endodontic treatment. The DentiBot is equipped with a force and torque sensor, as well as a string-based Patient Tracking Module, allowing for real-time monitoring of endodontic file contact and patient movement. We propose a 6-DoF hybrid position/force controller that enables autonomous adjustment of the surgical path and compensation for patient movement, while also providing protection against endodontic file fracture. In addition, a file flexibility model is incorporated to compensate for file bending. Pre-clinical evaluations performed on acrylic root canal models and resin teeth confirm the feasibility of the DentiBot in assisting endodontic treatment.
+![DentiBot](images/dentibot.png)
 <details>
 <summary>Read More</summary>
 One distinct feature of the DentiBot is 6-DoF string-based patient tracking module. 
