@@ -8,22 +8,22 @@ redirect_from:
 ---
 
 ## Education
-**Master in Electrical Engineering** *Aug 2021 - Aug 2023* 
-*National Taiwan University, Taipei, Taiwan* 
+**Master in Electrical Engineering** *Aug 2021 - Aug 2023* \\
+*National Taiwan University, Taipei, Taiwan* \\
 GPA: 4.08/4.3 
 
-**Bachelor in Mechanical Engineering** *Sep 2017 - Jun 2021* 
-*National Taiwan University, Taipei, Taiwan* 
-GPA: 3.81/4.3
-Last 60 points GPA: 4.11/4.3 
+**Bachelor in Mechanical Engineering** *Sep 2017 - Jun 2021* \\
+*National Taiwan University, Taipei, Taiwan* \\
+GPA: 3.81/4.3 \\
+Last 60 points GPA: 4.11/4.3 \\
 
 Relevant Courses: Robotics, Computer Vision, Control System, Machine Learning, Mechatronics
 
 ---
 ## Publications
-- ** Hao-Fang Cheng** , Yi-Ching Ho, and Cheng-Wei Chen. "DentiBot: System Design and 6-DoF Hybrid Position/Force Control for Robot-Assisted Endodontic Treatment." *arXiv preprint arXiv:2310.09691* (2023). (Submitted to *Transactions on Robotics*)
-- ** Hao-Fang Cheng** , Yi-Chan Li, Yi-Ching Ho and Cheng-Wei Chen. "Force-guided alignment and file feedrate control for robot-assisted endodontic treatment." *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. IEEE, 2022.
-- Chun-Yeon Lin, Hao-Tse Chen, ** Hao-Fang Cheng** , and Yu-Jun He. "Electrical Impedance Sensing System Design for Abnormal Object Detection." *2021 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)*. IEEE, 2021. (Best Paper Finalist)
+- **Hao-Fang Cheng** , Yi-Ching Ho, and Cheng-Wei Chen. "DentiBot: System Design and 6-DoF Hybrid Position/Force Control for Robot-Assisted Endodontic Treatment." *arXiv preprint arXiv:2310.09691* (2023). (Submitted to *Transactions on Robotics*)
+- **Hao-Fang Cheng** , Yi-Chan Li, Yi-Ching Ho and Cheng-Wei Chen. "Force-guided alignment and file feedrate control for robot-assisted endodontic treatment." *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. IEEE, 2022.
+- Chun-Yeon Lin, Hao-Tse Chen, **Hao-Fang Cheng** , and Yu-Jun He. "Electrical Impedance Sensing System Design for Abnormal Object Detection." *2021 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)*. IEEE, 2021. (Best Paper Finalist)
 
 ---
 ## Research Experience
