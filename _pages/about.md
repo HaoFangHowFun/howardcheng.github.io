@@ -8,10 +8,7 @@ redirect_from:
 ---
 <p align = "justify"> 
 I am a research assistant at National Taiwan University, where my research focuses on robot kinematics, sensor fusion, and control. I am fortunate to be advised by 
-  <a href="https://cwchenee.wixsite.com/nasa-ntuee">Prof. Cheng-Wei Chen</a>
-  
-  
-  from the Department of Electrical Engineering at National Taiwan University, working on robot-assisted endodontic treatment. Additionally, I had the opportunity to be mentored by [Prof. Giovanni Beltrame](https://mistlab.ca/) from the Department of Computer Science at Polytechnique Montreal during a six-month research internship, where I integrated UWB systems with multi-drone and multi-vehicle networks.
+  <a href="https://cwchenee.wixsite.com/nasa-ntuee">Prof. Cheng-Wei Chen</a> from the Department of Electrical Engineering at National Taiwan University, working on robot-assisted endodontic treatment. Additionally, I had the opportunity to be mentored by <a href="https://mistlab.ca/">Prof. Giovanni Beltrame</a> from the Department of Computer Science at Polytechnique Montreal during a six-month research internship, where I integrated UWB systems with multi-drone and multi-vehicle networks.
 </p>
 # Research Project
 
