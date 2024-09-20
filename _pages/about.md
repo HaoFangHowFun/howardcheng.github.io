@@ -29,7 +29,10 @@ The distinctive feature of endodontic files is their flexibility. However, this 
 
 <img src="images/dentibot_file_model.png">
 
-Block diagram below shows the proposed 6-DoF hybrid position/force control. In the inner-loop position control (yellow box), the robotic manipulator receives velocity commands $\dot{\mathbf{p}}_{cmd}$ and adjusts its pose relative to the patient to reach the desired value ${\mathbf{p}}_{d}$. Here, ${\Delta\mathbf{p}}$ denotes the patient movement, and ${\mathbf{p}}_{s}$ represents the relative pose measured from the PTM. In the outer-loop force control (green box), the contact force $\mathbf{\xi}_{s}$ between the endodontic file and root canal, measured by the force/torque sensor, is sent to the file flexibility compensator and admittance controller. These components generate the pose adjustments $\mathbf{p}_{f}$ and $\mathbf{p}_{adm}$ to help the DentiBot achieve the desired contact force $\mathbf{\xi}_d$.
+<p>
+The block diagram below shows the proposed 6-DoF hybrid position/force control. In the inner-loop position control (yellow box), the robotic manipulator receives velocity commands <span>&#x1D449;<sub>cmd</sub></span> and adjusts its pose relative to the patient to reach the desired value <span>&#x1D445;<sub>d</sub></span>. Here, <span>&#x0394;&#x1D445;</span> denotes the patient movement, and <span>&#x1D445;<sub>s</sub></span> represents the relative pose measured from the PTM. In the outer-loop force control (green box), the contact force <span>&#x1D701;<sub>s</sub></span> between the endodontic file and root canal, measured by the force/torque sensor, is sent to the file flexibility compensator and admittance controller. These components generate the pose adjustments <span>&#x1D445;<sub>f</sub></span> and <span>&#x1D445;<sub>adm</sub></span> to help the DentiBot achieve the desired contact force <span>&#x1D701;<sub>d</sub></span>.
+</p>
+
 <img src="images/Hybrid-control-diagram.png">
 </details>
 
