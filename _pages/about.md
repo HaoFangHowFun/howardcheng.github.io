@@ -42,7 +42,7 @@ The block diagram below shows the proposed 6-DoF hybrid position/force control. 
 ## Human-Drone Interaction by using UWB Localization system 
 ![human_drone](images/human-drone-interaction.png)
 <p align = "justify"> 
-In this project, I deployed six Cogniflies in an exhibition hall to interact with humans. An Ultra-Wideband (UWB) system was used to localize both the drones and the tags carried by humans, with the advantage of UWB being its ability to penetrate obstacles. I fine-tuned the Extended Kalman Filter (EKF) within the estimator to enhance localization accuracy. Additionally, I integrated the Buzz controller from another project into this work, enabling users to control the drones—such as taking off, swarming, and landing—by moving the tag in their hands.
+In this project, I deployed six Cogniflies <a href="https://thecognifly.github.io/">Cogniflies </a>, collision Resilient UAVs, in an exhibition hall to interact with dancers. An Ultra-Wideband (UWB) system was used to localize both the drones and the tags carried by humans, with the advantage of UWB being its ability to penetrate obstacles. I fine-tuned the Extended Kalman Filter (EKF) within the estimator to enhance localization accuracy. Additionally, I integrated the Buzz controller from another project into this work, enabling users to control the drones—such as taking off, swarming, and landing—by moving the tag in their hands.
 </p>
 
 ## Enhancing Swarm-SLAM by adding UWB constrain
