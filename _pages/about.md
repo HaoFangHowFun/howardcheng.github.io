@@ -18,7 +18,7 @@ Keywords: Robot autonomy, sensor module design, hybrid control
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n4k5wcZihyk?si=lVZqIsB7bOsqPL4D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 In this project, I intergrated the DentiBot, the first robot specifically designed for dental endodontic treatment. The DentiBot is equipped with a force and torque sensor, as well as a string-based Patient Tracking Module, allowing for real-time monitoring of endodontic file contact and patient movement. We propose a 6-DoF hybrid position/force controller that enables autonomous adjustment of the surgical path and compensation for patient movement, while also providing protection against endodontic file fracture. In addition, a file flexibility model is incorporated to compensate for file bending. Pre-clinical evaluations performed on acrylic root canal models and resin teeth confirm the feasibility of the DentiBot in assisting endodontic treatment. This work has been published to IROS 2022 and submitted to Transaction on Robotics (T-RO). 
 </p>
-![DentiBot](images/dentibot.png)
+<img src="images/dentibot.png">
 <details>
 <summary>Read More</summary>
 One distinct feature of the DentiBot is its 6-DoF patient tracking module, which employs a string-based parallel kinematic mechanism as a passive pose measurement device. This mechanism determines the relative pose between two rigid bodies by measuring the lengths of six strings that connect them. The strings are securely attached to a custom-made dental anchor, allowing the PTM to fixate onto the teeth while providing sufficient workspace for the dental handpiece. The anchor points for the strings are strategically distributed to minimize the risk of string crossing and avoid kinematic singularities. A Newton-Raphson method is applied to calculate the relative pose. Notebly, the PTM has demonstrated a precision of <strong>1 mm</strong> and <strong>1 degree</strong>.
@@ -27,7 +27,7 @@ One distinct feature of the DentiBot is its 6-DoF patient tracking module, which
 
 <img src="images/dentibot_file_model.png">
 
-<img src="images/preclinical_result.png">
+<img src="images/Hybrid-control-diagram.png">
 
 </details>
 
