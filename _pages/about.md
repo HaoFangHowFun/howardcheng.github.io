@@ -45,9 +45,9 @@ The block diagram below shows the proposed 6-DoF hybrid position/force control. 
 In this project, I deployed six Cogniflies <a href="https://thecognifly.github.io/">Cogniflies </a>, collision Resilient UAVs, in an exhibition hall to interact with dancers. An Ultra-Wideband (UWB) system was used to localize both the drones and the tags carried by humans, with the advantage of UWB being its ability to penetrate obstacles. I fine-tuned the Extended Kalman Filter (EKF) within the estimator to enhance localization accuracy. Additionally, I integrated the <a href="https://ieeexplore.ieee.org/abstract/document/7759558">Buzz controller </a> from another project into this work, enabling users to control the drones—such as taking off, swarming, and landing—by moving the tag in their hands.
 </p>
 
-## Enhancing Swarm-SLAM by adding UWB constrain
-Keywords: Robot autonomy, sensor module design, hybrid control 
+## Enhancing Swarm-SLAM by adding UWB distance constrain 
 ![Swarm Slam](images/swarm slam.png)
+Collaborative Simultaneous Localization and Mapping (C-SLAM) is a crucial component for successful multirobot operations in complex environments. Merging maps from different robots, however, is a challenging task that requires significant computational resources. In this work, I equipped each robot with Ultra-Wideband (UWB) sensors, allowing them to obtain relative distance measurements without line of sight. By incorporating this relative distance into the pose graph as an additional constraint, the optimization algorithm for localization is enhanced, enabling the robots to merge their maps more efficiently and in a shorter time.
 
 ## Electrical Impedance Sensing System Design for Abnormal Object Detection
 ![EIT](images/EIT.png)
