@@ -19,8 +19,6 @@ Keywords: Robot autonomy, sensor module design, hybrid control
   
 In this project, I intergrated the DentiBot, the first robot specifically designed for dental endodontic treatment. The DentiBot is equipped with a force and torque sensor, as well as a string-based Patient Tracking Module, allowing for real-time monitoring of endodontic file contact and patient movement. We propose a 6-DoF hybrid position/force controller that enables autonomous adjustment of the surgical path and compensation for patient movement, while also providing protection against endodontic file fracture. In addition, a file flexibility model is incorporated to compensate for file bending. Pre-clinical evaluations performed on acrylic root canal models and resin teeth confirm the feasibility of the DentiBot in assisting endodontic treatment. This work has been published to IROS 2022 and submitted to Transaction on Robotics (T-RO). 
 Relative Publishment:
-- **Hao-Fang Cheng** , Yi-Ching Ho, and Cheng-Wei Chen. "DentiBot: System Design and 6-DoF Hybrid Position/Force Control for Robot-Assisted Endodontic Treatment." *arXiv preprint arXiv:2310.09691* (2023). (Submitted to *Transactions on Robotics*).
-- **Hao-Fang Cheng** , Yi-Chan Li, Yi-Ching Ho and Cheng-Wei Chen. "Force-guided alignment and file feedrate control for robot-assisted endodontic treatment." *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. IEEE, 2022.
 </p>
 <img src="images/dentibot.png">
 <details>
@@ -50,7 +48,9 @@ In this project, I deployed six Cogniflies <a href="https://thecognifly.github.i
 
 ## Enhancing Swarm-SLAM by adding UWB distance constrain 
 ![Swarm Slam](images/swarm slam.png)
-Collaborative Simultaneous Localization and Mapping (C-SLAM) is essential for successful multirobot operations in complex environments. Our lab has already developed [Swarm-SLAM](https://github.com/MISTLab/Swarm-SLAM) for multi-vehicle SLAM. However, merging maps from different robots remains a challenging task, demanding significant computational resources. In this work, I equipped each robot with Ultra-Wideband (UWB) sensors, allowing them to obtain relative distance measurements without line of sight. By integrating this relative distance into the pose graph as an additional constraint, the optimization algorithm for localization is improved, enabling the robots to merge their maps more efficiently and in a shorter time.
+<p align = "justify"> 
+Collaborative Simultaneous Localization and Mapping (C-SLAM) is essential for successful multirobot operations in complex environments. Our lab has already developed <a href="https://github.com/MISTLab/Swarm-SLAM">Swarm-SLAM</a> for multi-vehicle SLAM. However, merging maps from different robots remains a challenging task, demanding significant computational resources. In this work, I equipped each robot with Ultra-Wideband (UWB) sensors, allowing them to obtain relative distance measurements without line of sight. By integrating this relative distance into the pose graph as an additional constraint, the optimization algorithm for localization is improved, enabling the robots to merge their maps more efficiently and in a shorter time.
+</p>
 
 ## Electrical Impedance Sensing System Design for Abnormal Object Detection
 ![EIT](images/EIT.png)
