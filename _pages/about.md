@@ -13,7 +13,6 @@ I am a research assistant at National Taiwan University, where my research focus
 # Research Project
 
 ## DentiBot: First robot designed for endodontic treatment
-Keywords: Robot autonomy, sensor module design, hybrid control //
 *Collaborated with Yi-Chan Lee, Shoa-Lun Chang and adivised by Prof. Cheng-Wei Chen*
 <p align = "justify"> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n4k5wcZihyk?si=lVZqIsB7bOsqPL4D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
