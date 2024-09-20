@@ -21,9 +21,11 @@ In this project, I intergrated the DentiBot, the first robot specifically design
 <img src="images/dentibot.png">
 <details>
 <summary>Read More</summary>
-One distinct feature of the DentiBot is its 6-DoF patient tracking module, which employs a string-based parallel kinematic mechanism as a passive pose measurement device. This mechanism determines the relative pose between two rigid bodies by measuring the lengths of six strings that connect them. The strings are securely attached to a custom-made dental anchor, allowing the PTM to fixate onto the teeth while providing sufficient workspace for the dental handpiece. The anchor points for the strings are strategically distributed to minimize the risk of string crossing and avoid kinematic singularities. A Newton-Raphson method is applied to calculate the relative pose. Notebly, the PTM has demonstrated a precision of <strong>1 mm</strong> and <strong>1 degree</strong>.
+ The DentiBot utilizes 6-DoF patient tracking module, which employs a string-based parallel kinematic mechanism as a passive pose measurement device. This mechanism determines the relative pose between two rigid bodies by measuring the lengths of six strings that connect them. The strings are securely attached to a custom-made dental anchor, allowing the PTM to fixate onto the teeth while providing sufficient workspace for the dental handpiece. The anchor points for the strings are strategically distributed to minimize the risk of string crossing and avoid kinematic singularities. A Newton-Raphson method is applied to calculate the relative pose. Notebly, the PTM has demonstrated a precision of <strong>1 mm</strong> and <strong>1 degree</strong>.
 
 <img src="images/dentibot_ptm.png">
+
+The distinctive feature of endodontic files is their flexibility. However, this flexibility introduces additional displacement when external forces are applied, requiring careful compensation. In this study, I account for file flexibility by incorporating the file deflection as a position offset. A tapered beam model is used to estimate the file's bending. Additionally, the file's characteristic parameters are determined experimentally to ensure that the model's estimated deflection aligns with the experimental data, as shown in Figure c. 
 
 <img src="images/dentibot_file_model.png">
 
