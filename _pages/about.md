@@ -14,6 +14,7 @@ I am a research assistant at National Taiwan University, where my research focus
 
 ## DentiBot: First robot designed for endodontic treatment
 Keywords: Robot autonomy, sensor module design, hybrid control 
+*Collaborated with Yi-Chan Lee, Shoa-Lun Chang and adivised by Prof. Cheng-Wei Chen*
 <p align = "justify"> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n4k5wcZihyk?si=lVZqIsB7bOsqPL4D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   
@@ -41,18 +42,21 @@ The block diagram below shows the proposed 6-DoF hybrid position/force control. 
 </details>
 
 ## Human-Drone Interaction by using UWB Localization system 
+*Collaborated with Yann Bouteiller, Vivek Shankar Varadharajan and adivised by Prof. Giovanni Beltrame*
 ![human_drone](images/human-drone-interaction.png)
 <p align = "justify"> 
 In this project, I deployed six Cogniflies <a href="https://thecognifly.github.io/">Cogniflies </a>, collision Resilient UAVs, in an exhibition hall to interact with dancers. An Ultra-Wideband (UWB) system was used to localize both the drones and the tags carried by humans, with the advantage of UWB being its ability to penetrate obstacles. I fine-tuned the Extended Kalman Filter (EKF) within the estimator to enhance localization accuracy. Additionally, I integrated the <a href="https://ieeexplore.ieee.org/abstract/document/7759558">Buzz controller </a> from another project into this work, enabling users to control the drones—such as taking off, swarming, and landing—by moving the tag in their hands.
 </p>
 
 ## Enhancing Swarm-SLAM by adding UWB distance constrain 
+*Collaborated with Pierre-Yves Lajoie and adivised by Prof. Giovanni Beltrame*
 ![Swarm Slam](images/swarm slam.png)
 <p align = "justify"> 
 Collaborative Simultaneous Localization and Mapping (C-SLAM) is essential for successful multirobot operations in complex environments. Our lab has already developed <a href="https://github.com/MISTLab/Swarm-SLAM">Swarm-SLAM</a> for multi-vehicle SLAM. However, merging maps from different robots remains a challenging task, demanding significant computational resources. In this work, I equipped each robot with Ultra-Wideband (UWB) sensors, allowing them to obtain relative distance measurements without line of sight. By integrating this relative distance into the pose graph as an additional constraint, the optimization algorithm for localization is improved, enabling the robots to merge their maps more efficiently and in a shorter time.
 </p>
 
 ## Electrical Impedance Sensing System Design for Abnormal Object Detection
+*Collaborated with Hao-Tse Chen and adivised by Prof. Chun-Yeon Lin*
 ![EIT](images/EIT.png)
 <p align = "justify"> 
 This project proposed a design for an electrical impedance (EI) sensing system. For the part of physical modeling, the harmonic electric fields of the EI sensing system are formulated by the distributed parameter element (DPE) method to calculate the electrode potentials for several injection patterns of different abnormal object distributions, and the computed electrode potentials are feed into a deep neural network (DNN) to estimate the location and size of the abnormal object. For the part of system development, an electric circuit that integrates the multiplexer and Howland pump is utilized to switch the current injection electrodes and control the injection currents. The harmonic electric fields computed by the DPE method are verified by the FEA software, and the effects of utilizing the DNN for abnormal object detection are numerically validated. The proposed design, along with a prototype of the EI sensing system, which is conducted on two kinds of materials, phantom and biological objects, have been experimentally compared. 
