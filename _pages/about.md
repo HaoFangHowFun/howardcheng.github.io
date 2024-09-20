@@ -32,17 +32,23 @@ The distinctive feature of endodontic files is their flexibility. However, this 
 </p>
 <img src="images/dentibot_file_model.png">
 
-<p>
+<p align = "justify"> 
 The block diagram below shows the proposed 6-DoF hybrid position/force control. In the inner-loop position control (yellow box), the robotic manipulator receives velocity commands <span>p&#x0307;<sub>cmd</sub></span> and adjusts its pose relative to the patient to reach the desired value <span>p<sub>d</sub></span>. Here, <span>&#x0394;p</span> denotes the patient movement, and <span>p<sub>s</sub></span> represents the relative pose measured from the PTM. In the outer-loop force control (green box), the contact force <span>&#x1D701;<sub>s</sub></span> between the endodontic file and root canal, measured by the force/torque sensor, is sent to the file flexibility compensator and admittance controller. These components generate the pose adjustments <span>p<sub>f</sub></span> and <span>p<sub>adm</sub></span> to help the DentiBot achieve the desired contact force <span>&#x1D701;<sub>d</sub></span>.
 </p>
 
 <img src="images/Hybrid-control-diagram.png">
 </details>
 
-## Enhancing Swarm-SLAM by adding UWB constrain
-![Swarm Slam](images/swarm slam.png)
 ## Human-Drone Interaction by using UWB Localization system 
 ![human_drone](images/human-drone-interaction.png)
+<p align = "justify"> 
+In this project, I deployed six Cogniflies in an exhibition hall to interact with humans. An Ultra-Wideband (UWB) system was used to localize both the drones and the tags carried by humans, with the advantage of UWB being its ability to penetrate obstacles. I fine-tuned the Extended Kalman Filter (EKF) within the estimator to enhance localization accuracy. Additionally, I integrated the Buzz controller from another project into this work, enabling users to control the drones—such as taking off, swarming, and landing—by moving the tag in their hands.
+</p>
+
+## Enhancing Swarm-SLAM by adding UWB constrain
+Keywords: Robot autonomy, sensor module design, hybrid control 
+![Swarm Slam](images/swarm slam.png)
+
 ## Electrical Impedance Sensing System Design for Abnormal Object Detection
 ![EIT](images/EIT.png)
 <p align = "justify"> 
