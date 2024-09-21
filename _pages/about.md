@@ -73,12 +73,18 @@ In October 2019, I participated in the 2020 TDK National Creative Design Competi
 As the team leader, I was responsible for organizing the team, delegating tasks, and ensuring resource availability. My leadership and technical efforts were instrumental in guiding the team to a successful outcome, resulting in a fully functional and competitive drone design.
 </p>
 
-## Robotics Final Project: Using Manipualtor to Solve Puzzle 
+## Robotics Course Project: Using Manipualtor to Solve Gigsaw Puzzle 
 *Collaborated with Lily Liu, Yu-Peng Hsieh, Li-Kai Chuang and adivised by Prof. Li-Chen Fu*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C8wDrQi4jkE?si=UH1HqMph3G2K6uZH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p align = "justify"> 
+This project was the final assignment in the 2021 robotics course. Our goal was to enable the robot to autonomously solve a jigsaw puzzle. To achieve this, we integrated a pneumatic sucker into the robotic manipulator for placing the puzzle pieces into the frame. Additionally, we developed an algorithm for matching the puzzle pieces to the template, allowing the robot to position and orient each piece correctly.     
+</p>
 
-## Mechatronics Final Project: Velocity Control for Panuatic Automobile
+## Mechatronics Course Project: Velocity Control for Autonomous Panuatic Automobile
 *Tsu-Yu Chen, Chuang-Hen Liu, Zi-Hao Fu and Li-Kai Chuang*
+<p align = "justify"> 
+In this project, the assigned task was to build an autonomous pneumatic automobile capable of driving in a straight line at a specific speed. We designed an automobile powered by an electric fan, with a PD controller used to regulate its velocity. Infrared sensor arrays were placed at the front of the car to detect the line on the ground. Notably, our car was able to autonomously drive with acceleration, maintain uniform speed, and decelerate within the required tolerance.
+</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jzHP1wdxl_o?si=roOJDU1zsC2ZX86_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
