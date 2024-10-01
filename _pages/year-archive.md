@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /year-archive/
 title: "Blog posts"
 author_profile: true
@@ -9,7 +8,7 @@ author_profile: true
 <font size="4"><i>2024/08/31</i><br>
 <font size="4">4 men, 2 ball, 10 seconds.<br>
 
- <style>
+<style>
 .yt {
     color: white;
     width: 500px;
