@@ -12,14 +12,15 @@ author_profile: true
  <style>
 .yt {
     color: white;
-    width: 700px;
+    width: 500px;
+    height: 300px;
     margin: 0;
 }
 </style>
 <div class="yt">
 <iframe height=100% src="https://www.youtube.com/embed/Tsmsl7RUg7w?si=9ws-eWzdIZrqNBjG" title="YouTube video player" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-  
+
 <br>
 <br>
 <font size="5"><b>Giving a Lab Tour for EE Summer Camp Students</b></font><br>
