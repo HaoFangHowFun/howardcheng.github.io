@@ -84,7 +84,7 @@ This project was the final assignment in the 2021 robotics course. Our goal was 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C8wDrQi4jkE?si=UH1HqMph3G2K6uZH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Mechatronics Course Project: Velocity Control for Autonomous Panuatic Automobile
-*Tsu-Yu Chen, Chuang-Hen Liu, Zi-Hao Fu and Li-Kai Chuang*
+*Collaborated with Tsu-Yu Chen, Chuang-Hen Liu, Zi-Hao Fu and Li-Kai Chuang*
 <p align = "justify"> 
 In this project, the assigned task was to build an autonomous pneumatic automobile capable of driving in a straight line at a specific speed. We designed an automobile powered by an electric fan, with a PD controller used to regulate its velocity. Infrared sensor arrays were placed at the front of the car to detect the line on the ground. Notably, our car was able to autonomously drive with acceleration, maintain uniform speed, and decelerate within the required tolerance.
 </p>
