@@ -36,8 +36,8 @@ Relevant Courses: Robotics, Computer Vision, Control System, Machine Learning, M
 **Polytechnique Montreal, Canada**
 *Research Intern, MIST Lab, Computer Science Department*
 *Feb 2023 - Aug 2023*
-- Enhanced multi-vehicle SLAM project by applying ultra wide-band (UWB) sensors as extra distance reference.
-- Integrated UWB localization system on six drones for human-drones interaction, enabling drones to follow dancer’s motion and avoid collisions.
+- Integrated ultra wide-band (UWB) localization system on six drones for human-drones interaction, enabling drones to follow dancer’s motion and avoid collisions.
+- Enhanced multi-vehicle SLAM by applying ultra UWB sensors as extra distance reference.
 
 **National Taiwan University, Taiwan**
 *Research Assistant, MIARL Lab, Mechanical Engineering Department*
