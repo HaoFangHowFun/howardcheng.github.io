@@ -15,7 +15,7 @@ I am a research assistant at National Taiwan University, where my research focus
 ## DentiBot: First robot designed for endodontic treatment
 *Collaborated with Yi-Chan Lee, Shoa-Lun Chang and adivised by Prof. Cheng-Wei Chen*
 <p align = "justify"> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IDlfOUnouGg?si=upqq93KTWb6EdOwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T6VM-6LzHBs?si=fGiTuOSLpuixY6-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
 In this project, I integrated DentiBot, the first robot specifically designed for autonomous dental endodontic treatment, focused on cleaning and shaping root canals. DentiBot is equipped with a force and torque sensor, along with a string-based patient tracking module, enabling real-time monitoring of endodontic file contact and patient movement. Additionally, we developed a 6-DoF hybrid position/force controller that autonomously adjusts the surgical path and compensates for patient movement, while also protecting against endodontic file fractures. A file flexibility model is incorporated to account for file bending. Pre-clinical evaluations conducted on acrylic root canal models and resin teeth confirmed the feasibility of DentiBot in supporting endodontic treatment. This work was published in IROS 2022 and submitted to Transactions on Robotics (T-RO).<br>
 Relative publications:<br>
@@ -30,11 +30,11 @@ Relative publications:<br>
 </p>
 <img src="images/dentibot_ptm.png">
 <br>
-<p align = "justify">
+<!-- <p align = "justify">
 The distinctive feature of endodontic files is their flexibility. However, this flexibility introduces additional displacement when external forces are applied, requiring careful compensation. In this study, I account for file flexibility by incorporating the file deflection as a position offset. A tapered beam model is used to estimate the file's bending. Additionally, the file's characteristic parameters are determined experimentally to ensure that the model's estimated deflection aligns with the experimental data, as shown in Figure c. 
 </p>
 <img src="images/dentibot_file_model.png">
-<br>
+<br> -->
 <p align = "justify"> 
 The block diagram below shows the proposed 6-DoF hybrid position/force control. In the inner-loop position control (yellow box), the robotic manipulator receives velocity commands <span>p&#x0307;<sub>cmd</sub></span> and adjusts its pose relative to the patient to reach the desired value <span>p<sub>d</sub></span>. Here, <span>&#x0394;p</span> denotes the patient movement, and <span>p<sub>s</sub></span> represents the relative pose measured from the PTM. In the outer-loop force control (green box), the contact force <span>&#x1D701;<sub>s</sub></span> between the endodontic file and root canal, measured by the force/torque sensor, is sent to the file flexibility compensator and admittance controller. These components generate the pose adjustments <span>p<sub>f</sub></span> and <span>p<sub>adm</sub></span> to help the DentiBot achieve the desired contact force <span>&#x1D701;<sub>d</sub></span>.
 </p>
