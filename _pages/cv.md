@@ -26,7 +26,7 @@ Relevant Courses: Robotics, Computer Vision, Control System, Machine Learning, M
 
 ---
 ## Research Experience
-**Robotic System for Autonomous Surgical Tasks**
+**Robotic System for Autonomous Surgical Tasks** \\
 *Research Assistant, NASA Lab, National Taiwan University, Taiwan. Advisor: Prof. Cheng-Wei Chen*
 *Aug 2021 - Present*
 - Designed \textit{DentiBot}, a robot with a force sensor and positioning module for autonomous endodontic treatment.  
@@ -34,14 +34,14 @@ Relevant Courses: Robotics, Computer Vision, Control System, Machine Learning, M
 - Proposed a hybrid 6-DoF position/force control strategy for safe robot-patient alignment.
 - Validated DentiBot through successful pre-clinical trials with dentists at Taipei Veterans General Hospital.
   
-**Human-Drones Interaction**
+**Human-Drones Interaction** \\
 *Research Intern, MIST Lab, Polytechnique Montreal, Canada. Advisor: Prof. Giovanni Beltrame*
 *Feb 2023 - Aug 2023*
 - Created an indoor drone show featuring resilient drones performing alongside dancers.
 - Incorporated a decentralized controller to manage 6 drones simultaneously.   
 - Elevated the stability of the ultra-wideband (UWB) localization system by enhancing the Extended Kalman Filter.
 
-**Mechatronic Systems for Abnormal Tissue Detection**
+**Mechatronic Systems for Abnormal Tissue Detection** \\
 *Research Assistant, MIARL Lab, National Taiwan University, Taiwan. Advisor: Prof. Chun-Yeon Lin*
 *Sep 2020 - Jun 2021*
 - Innovated a electrical impedance sensing system to accurately detect abnormal objects in biological phantoms.
@@ -50,7 +50,7 @@ Relevant Courses: Robotics, Computer Vision, Control System, Machine Learning, M
   
 ---
 ## Working Experience
-**Autonomous Drone Development**
+**Autonomous Drone Development** \\
 *Summer Intern, Fly-Control Group, Taiwan Space Agency. Advisor: Dr. Chen-Yu Chan*
 *Jul 2020 - Aug 2020*
 - Developed mode-switching capabilities for a drone, enabling smooth transitions between navigation and rolling.
@@ -58,11 +58,11 @@ Relevant Courses: Robotics, Computer Vision, Control System, Machine Learning, M
 
 ---
 ## Honors & Awards
-- **2nd place in 2020 TDK National Creative Design Competition (Flying Group)**
+**2nd place in 2020 TDK National Creative Design Competition (Flying Group)** \\
   - Designed an autonomous drone to follow a ground trajectory, navigate obstacles, and deliver payloads.
   - Led the first university team to join this competition, building a functional drone from scratch.
   - Served as team leader, organizing team members and securing resources.
-- **Dean’s Award**, Aug 2020
+**Dean’s Award**, Aug 2020
   
 ---
 ## Teaching Experience
