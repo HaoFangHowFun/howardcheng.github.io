@@ -19,45 +19,46 @@ Relevant Courses: Robotics, Computer Vision, Control System, Machine Learning, M
 
 ---
 ## Publications
-- **Hao-Fang Cheng** , Yi-Ching Ho, and Cheng-Wei Chen. "DentiBot: System Design and 6-DoF Hybrid Position/Force Control for Robot-Assisted Endodontic Treatment." *arXiv preprint arXiv:2310.09691* (2023). (Submitted to *Transactions on Robotics*)
-- **Hao-Fang Cheng** , Yi-Chan Li, Yi-Ching Ho and Cheng-Wei Chen. "Force-guided alignment and file feedrate control for robot-assisted endodontic treatment." *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. IEEE, 2022.
-- Chun-Yeon Lin, Hao-Tse Chen, **Hao-Fang Cheng** , and Yu-Jun He. "Electrical Impedance Sensing System Design for Abnormal Object Detection." *2021 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)*. IEEE, 2021. (Best Paper Finalist)
+- **H. -F. Cheng**, Y. -C. Ho, and C. -W. Chen, "DentiBot: System Design and 6-DoF Hybrid Position/Force Control for Robot-Assisted Endodontic Treatment." arXiv preprint arXiv:2310.09691 (2023). (Submitted to Transactions  on Robotics) 
+- **H. -F. Cheng**, Y. -C. Li, Y. -C. Ho and C. -W. Chen, "Force-Guided Alignment and File Feedrate Control for Robot-Assisted Endodontic Treatment," 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Kyoto, Japan, 2022, pp. 1841-1847, doi: 10.1109/IROS47612.2022.9981393.
+- C. -Y. Lin, H. -T. Chen, **H. -F. Cheng** and Y. -J. He, "Electrical Impedance Sensing System Design for Abnormal Object Detection," 2021 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Delft, Netherlands, 2021, pp. 1313-1318, doi: 10.1109/AIM46487.2021.9517604. (Best Paper Finalist)
+- C. -W. Chen, Y. -C. Li, and **H. -F. Cheng**, "Endodontic robotic surgical system and endodontic robotic surgical assembly," U.S. Patent No 12,029,509, 2024.
 
 ---
 ## Research Experience
-**National Taiwan University, Taiwan**
-*Research Assistant, NASA Lab, Electrical Engineering Department*
-*Apr 2024 - Present, May 2021 - Feb 2023*
-- Designed DentiBot, a robot arm with a force/torque sensor and self-made positioning module for autonomous dental endodontic treatment.
-- Developed a string-based patient tracking module for localization and motion tracking.
-- Implemented a hybrid 6-DoF position/force control strategy for effective and safe treatment.
-- Verified DentiBot through pre-clinical tests with dentists at Taipei Veterans General Hospital.
+**Robotic System for Autonomous Surgical Tasks**
+*Research Assistant, NASA Lab, National Taiwan University, Taiwan. Advisor: Prof. Cheng-Wei Chen*
+*Aug 2021 - Present*
+- Designed \textit{DentiBot}, a robot with a force sensor and positioning module for autonomous endodontic treatment.  
+- Pioneered and optimized a 6-DoF string-based patient tracking module, achieving submillimeter precision.
+- Proposed a hybrid 6-DoF position/force control strategy for safe robot-patient alignment.
+- Validated DentiBot through successful pre-clinical trials with dentists at Taipei Veterans General Hospital.
   
-**Polytechnique Montreal, Canada**
-*Research Intern, MIST Lab, Computer Science Department*
+**Human-Drones Interaction**
+*Research Intern, MIST Lab, Polytechnique Montreal, Canada. Advisor: Prof. Giovanni Beltrame*
 *Feb 2023 - Aug 2023*
-- Integrated ultra wide-band (UWB) localization system on six drones for human-drones interaction, enabling drones to follow dancer’s motion and avoid collisions.
-- Enhanced multi-vehicle SLAM by applying ultra UWB sensors as extra distance reference.
+- Created an indoor drone show featuring resilient drones performing alongside dancers.
+- Incorporated a decentralized controller to manage 6 drones simultaneously.   
+- Elevated the stability of the ultra-wideband (UWB) localization system by enhancing the Extended Kalman Filter.
 
-**National Taiwan University, Taiwan**
-*Research Assistant, MIARL Lab, Mechanical Engineering Department*
+**Mechatronic Systems for Abnormal Tissue Detection**
+*Research Assistant, MIARL Lab, National Taiwan University, Taiwan. Advisor: Prof. Chun-Yeon Lin*
 *Sep 2020 - Jun 2021*
-- Integrated an electrical impedance sensing system to detect abnormal objects in tissues.
-- Utilized a DNN network to estimate the location and size of abnormal objects.
+- Innovated a electrical impedance sensing system to accurately detect abnormal objects in biological phantoms.
+- Applied a deep neural network (DNN) to predict the location and size of abnormal objects.
+- Developed biological phantoms with resistivity properties simulating human tissues and tumors.
   
 ---
 ## Working Experience
-**Taiwan Space Agency, Taiwan**
-*Summer Intern, Fly-Control Group*
+**Autonomous Drone Development**
+*Summer Intern, Fly-Control Group, Taiwan Space Agency. Advisor: Dr. Chen-Yu Chan*
 *Jul 2020 - Aug 2020*
-- Worked on an autonomous drone project, evaluating the drone in indoor environments.
-- Developed mode-switching capabilities for the drone, enabling transitions between different control modes.
-- Fine-tuned controller parameters, allowing the drone to perform 360-degree rolls.
-Relevant Skill: Drone Control
+- Developed mode-switching capabilities for a drone, enabling smooth transitions between navigation and rolling.
+- Optimized control parameters, empowering the drone to execute flawless 360-degree rolls.
 
 ---
 ## Honors & Awards
-- **2nd Place**, TDK National Creative Design Competition (Flying Group), Oct 2019
+- **2nd place in 2020 TDK National Creative Design Competition (Flying Group)**
   - Designed an autonomous drone to follow a ground trajectory, navigate obstacles, and deliver payloads.
   - Led the first university team to join this competition, building a functional drone from scratch.
   - Served as team leader, organizing team members and securing resources.
@@ -65,13 +66,11 @@ Relevant Skill: Drone Control
   
 ---
 ## Teaching Experience
-**Electrical Circuit Experiment**
-*Teaching Assistant*
+**Teaching Assistant of Electrical Circuit Experiment**
 *Jan 2022 - Jan 2023*
 - Lectured undergraduate students and resolved technical issues related to electrical instruments.
   
-**Programming for Business Computing**
-*Teaching Assistant*
+**Teaching Assistant of Programming for Business Computing**
 *Sep 2020 - Jan 2021*
 - Guided new programmers in learning Python and assisted them with homework assignments.
 
@@ -79,6 +78,6 @@ Relevant Skill: Drone Control
 ## Skills
 - **Programming**: Python, C++, MATLAB, ROS, Linux
 - **CAD Software**: Fusion360, Inventor, AutoCAD
-- **Languages**: Chinese (Native), English (TOEFL 103)
+
 
 
