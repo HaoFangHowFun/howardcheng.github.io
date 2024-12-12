@@ -18,9 +18,5 @@ author_profile: true
 
 
 
-## Skills
-- **Programming**: Python, C++, MATLAB, ROS, Linux
-- **CAD Software**: Fusion360, Inventor, AutoCAD
-
 
 
