@@ -8,7 +8,7 @@ author_profile: true
 
 <iframe
   src="../files/Hao_Fang_Cheng_CV.pdf"
-  width="100%"
+  width="80%"
   height="500px"
 >
      
