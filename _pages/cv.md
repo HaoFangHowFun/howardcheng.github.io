@@ -5,6 +5,27 @@ permalink: /cv/
 author_profile: true
 ---
 
+
+<iframe
+  src="/helloWorld.pdf"
+  width="100%"
+  height="500px"
+>
+     
+  This browser does not support PDFs. Please download the PDF to view it: <a href="../files/Hao_Fang_Cheng_CV.pdf">Download PDF</a>
+
+</iframe>
+
+<iframe
+  src="data:application/pdf;base64,other base64 code"
+  width="100%"
+  height="500px"
+>
+        
+  This browser does not support PDFs. Please download the PDF to view it: <a href="data:application/pdf;base64,other base64 code">Download PDF</a>
+            
+</iframe>
+
 ## Education
 **Master in Electrical Engineering** *Aug 2021 - Aug 2023* \\
 *National Taiwan University, Taipei, Taiwan* \\
