@@ -28,6 +28,7 @@ I am currently a robotic engineer at <a href="https://www.mantis-robotics.com/">
 
 <p align = "justify"> 
 In this project, I co-deveioped DentiBot, the first robot specifically designed for autonomous dental endodontic treatment, focused on cleaning and shaping root canals. DentiBot is equipped with a force and torque sensor, along with a string-based patient tracking module, enabling real-time monitoring of endodontic file contact and patient movement. Additionally, we developed a 6-DoF hybrid position/force controller that autonomously adjusts the surgical path and compensates for patient movement, while also protecting against endodontic file fractures. A file flexibility model is incorporated to account for file bending. Pre-clinical evaluations conducted on acrylic root canal models and resin teeth confirmed the feasibility of DentiBot in supporting endodontic treatment. This work was published in IROS 2022 and submitted to Transactions on Automation Science and Engineering (T-ASE).<br>
+</p>
 <img src="images/dentibot.png">
 <details>
 <summary>Read More</summary>
