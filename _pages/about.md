@@ -8,10 +8,10 @@ redirect_from:
 ---
 <p align = "justify"> 
 Hi! I'm Hao-Fang. I am a prospective PhD student in Robotics with an interest in developing safe and efficient solutions for autonomous robotic tasks.
-<br>
+<br><br>
 During my master’s studies, I was fortunate to be advised by
 <a href="https://cwchenee.wixsite.com/nasa-ntuee">Prof. Cheng-Wei Chen</a> from the Department of Electrical Engineering at National Taiwan University, working on robot-assisted endodontic treatment. Additionally, I had the opportunity to be mentored by <a href="https://mistlab.ca/">Prof. Giovanni Beltrame</a> from the Department of Computer Science at Polytechnique Montréal during a graduate research exchange, where I worked on multi-robot swarms.
-<br>
+<br><br>
 I am currently a robotic engineer at <a href="https://www.mantis-robotics.com/">Mantis Robotics</a>, where I am responsible for enhancing perception for collaborative robots.
 </p>
 
