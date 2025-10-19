@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 <p align = "justify"> 
-Hi! I'm Hao-Fang. I am a prospective PhD student in Robotics with an interest in developing safe and efficient solutions for autonomous robotic tasks.<br>
-
+Hi! I'm Hao-Fang. I am a prospective PhD student in Robotics with an interest in developing safe and efficient solutions for autonomous robotic tasks.
+<br>
 During my master’s studies, I was fortunate to be advised by
-<a href="https://cwchenee.wixsite.com/nasa-ntuee">Prof. Cheng-Wei Chen</a> from the Department of Electrical Engineering at National Taiwan University, working on robot-assisted endodontic treatment. Additionally, I had the opportunity to be mentored by <a href="https://mistlab.ca/">Prof. Giovanni Beltrame</a> from the Department of Computer Science at Polytechnique Montréal during a six-month research internship, where I worked on multi-robot swarms.<br>
-
+<a href="https://cwchenee.wixsite.com/nasa-ntuee">Prof. Cheng-Wei Chen</a> from the Department of Electrical Engineering at National Taiwan University, working on robot-assisted endodontic treatment. Additionally, I had the opportunity to be mentored by <a href="https://mistlab.ca/">Prof. Giovanni Beltrame</a> from the Department of Computer Science at Polytechnique Montréal during a graduate research exchange, where I worked on multi-robot swarms.
+<br>
 I am currently a robotic engineer at <a href="https://www.mantis-robotics.com/">Mantis Robotics</a>, where I am responsible for enhancing perception for collaborative robots.
 </p>
 
@@ -23,7 +23,9 @@ I am currently a robotic engineer at <a href="https://www.mantis-robotics.com/">
 ## DentiBot: First robot designed for autonomous endodontic treatment
 *Collaborated with Yi-Chan Lee, Shoa-Lun Chang and adivised by Prof. Cheng-Wei Chen*
 <p align = "justify"> 
-<iframe width="560" height="315" src="https://youtu.be/WAeMQoH66A8?si=Clv1T6oOxXP5oNc6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WAeMQoH66A8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  
 <br>
 In this project, I co-deveioped DentiBot, the first robot specifically designed for autonomous dental endodontic treatment, focused on cleaning and shaping root canals. DentiBot is equipped with a force and torque sensor, along with a string-based patient tracking module, enabling real-time monitoring of endodontic file contact and patient movement. Additionally, we developed a 6-DoF hybrid position/force controller that autonomously adjusts the surgical path and compensates for patient movement, while also protecting against endodontic file fractures. A file flexibility model is incorporated to account for file bending. Pre-clinical evaluations conducted on acrylic root canal models and resin teeth confirmed the feasibility of DentiBot in supporting endodontic treatment. This work was published in IROS 2022 and submitted to Transactions on Automation Science and Engineering (T-ASE).<br>
 <img src="images/dentibot.png">
